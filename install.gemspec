@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name        = 'install'
-  s.version     = '1.0.3'
+  s.version     = '1.0.4'
   s.author      = 'hdm'
   s.email       = 'x@hdm.io'
   s.license     = 'Apache-2.0'
